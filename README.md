@@ -13,14 +13,6 @@ This interactive Power BI dashboard provides a comprehensive analysis of Melbour
 
     Suburb-level Price Comparison using a choropleth map
 
-    Predictive Modeling Layer with:
-
-        Predicted vs. Actual Prices (scatter plot)
-
-        Error Distribution (histogram)
-
-        Feature Importance (SHAP-based model insights)
-
     Dynamic KPIs showing metrics like MAE, RMSE, and total properties sold
 
     Slicers & Filters to explore data by year, suburb, and property features
